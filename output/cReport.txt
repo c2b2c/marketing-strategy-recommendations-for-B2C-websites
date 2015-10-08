@@ -1,0 +1,67 @@
+Clusters  :
+
+information for cluster 0 :
+ age = 45 years old
+ education years = 14 years
+ income = 71701 dollars
+ car numbers = 3444 cars
+ car ratio = 41%
+
+ number range :
+ age range : from 31 to 59 years old
+ eduation range : from 12 to 16 years
+ income range : from 52503 to 90899 dollars
+
+
+information for cluster 1 :
+ age = 49 years old
+ education years = 15 years
+ income = 180369 dollars
+ car numbers = 1292 cars
+ car ratio = 15%
+
+ number range :
+ age range : from 37 to 61 years old
+ eduation range : from 13 to 17 years
+ income range : from 79161 to 281577 dollars
+
+
+information for cluster 2 :
+ age = 60 years old
+ education years = 13 years
+ income = 32312 dollars
+ car numbers = 1773 cars
+ car ratio = 21%
+
+ number range :
+ age range : from 48 to 72 years old
+ eduation range : from 11 to 15 years
+ income range : from 22882 to 41742 dollars
+
+
+information for cluster 3 :
+ age = 33 years old
+ education years = 13 years
+ income = 16602 dollars
+ car numbers = 1152 cars
+ car ratio = 13%
+
+ number range :
+ age range : from 23 to 43 years old
+ eduation range : from 11 to 15 years
+ income range : from 6086 to 27118 dollars
+
+
+information for cluster 4 :
+ age = 73 years old
+ education years = 13 years
+ income = 9735 dollars
+ car numbers = 662 cars
+ car ratio = 7%
+
+ number range :
+ age range : from 64 to 82 years old
+ eduation range : from 11 to 15 years
+ income range : from 2910 to 16560 dollars
+
+
